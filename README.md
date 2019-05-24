@@ -1,1 +1,1 @@
-# git--q-and-a
+# git-q-and-a
