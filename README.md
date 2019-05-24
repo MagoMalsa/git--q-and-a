@@ -15,3 +15,7 @@ What is your favorite color?
 
 What's your favorite animal?
 
+Lion the most majestic of beasts
+
+What is the squared root of 121?
+
